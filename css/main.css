@@ -1,0 +1,12 @@
+.nav-item + .nav-item {
+    margin-left: 10px;
+}
+
+.nav-item {
+    display: inline-block;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+.ftco-section{
+    display: flex;
+}
